@@ -6,3 +6,4 @@ Feature: Test Login Functionality
     When user enters valid username and password
     And user clicks on login
     Then user is navigated to the home page
+    bgefjhffhhfgwaufh
